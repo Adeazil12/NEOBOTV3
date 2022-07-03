@@ -1,10 +1,10 @@
 /**
 
-- Neobotz Beta Multi Device
-- Created By Lexxy Official
+- Modsbotz Beta Multi Device
+- Created By Ademods
 - Version : 3.0.0
 - Buy No Enc? Harga 150k
-- Wa gua : Wa.me/6283834558105
+- Wa gua : Wa.me/628980330708
 
 */
 
